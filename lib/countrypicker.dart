@@ -1,4 +1,4 @@
-library countrypicker;
+library allcontrypicker;
 
 import 'package:flutter/material.dart';
 

@@ -1,4 +1,4 @@
-import 'package:countrypicker/countrypicker.dart';
+import 'package:allcontrypicker/allcontrypicker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 

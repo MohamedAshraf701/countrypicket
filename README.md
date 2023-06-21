@@ -1,10 +1,10 @@
 # Country Picker Flutter Package
 
-[![pub package](https://img.shields.io/pub/v/country_picker.svg)](https://pub.dev/packages/country_picker)
+[![pub package](https://img.shields.io/pub/v/allcontrypicker.svg)](https://pub.dev/packages/allcontrypicker)
 
 The Country Picker Flutter package provides a simple and convenient way to select a country from a list of countries within a Flutter application.
 
-![Country Picker Screenshot](https://raw.githubusercontent.com/Daniel-Ioannou/flutter_country_picker/master/assets/ReadMe_20Screenshot.png)
+![Country Picker Screenshot](https://github.com/MohamedAshraf701/countrypicket/blob/main/assets/ReadMe_Screenshot.png)
 
 ## Getting Started
 
@@ -12,15 +12,15 @@ To use the Country Picker package, follow these steps:
 
 1. Add the package to your `pubspec.yaml` file:
 ```yaml
-countrypicker: ^0.0.1
+allcontrypicker: ^0.0.1
 ```
 
 2. Import the package in your Dart file:
 ```dart
-import 'package:countrypicker/countrypicker.dart';
+import 'package:allcontrypicker/allcontrypicker.dart';
 ```
 
-3. Display the country picker using the `showCountryPicker` method:
+3. Display the country picker using the `showallcontrypicker` method:
 ```dart
 showCountryPicker(
   context: context,

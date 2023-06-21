@@ -1,4 +1,4 @@
-import 'package:countrypicker/countrypicker.dart';
+import 'package:allcontrypicker/allcontrypicker.dart';
 import 'package:flutter/material.dart';
 
 import 'res/country_codes.dart';
